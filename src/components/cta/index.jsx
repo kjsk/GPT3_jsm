@@ -14,5 +14,4 @@ const CTA = () => {
     </div>
   );
 };
-
 export default CTA;
